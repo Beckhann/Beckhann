@@ -1,45 +1,47 @@
 # David Beckhan
-### Network & Infrastructure Engineer
+### Aspiring Network & Infrastructure Engineer
 
-Self-taught network engineer focused on building reliable, secure infrastructure
-for small and medium businesses. Currently deepening expertise in Linux
-administration, network security, and IT automation.
-
----
-
-## What I work with
-
-**Networking**
-OSI/TCP-IP models · Routing & switching · VLANs · DNS, DHCP, ARP ·
-Structured cabling · Network troubleshooting
-
-**Linux & Systems**
-Linux administration (CLI-first) · Service configuration · User & permission
-management · Shell scripting
-
-**Security**
-Firewall setup & hardening · Network monitoring · Incident analysis ·
-Penetration testing fundamentals
-
-**Tools & Platforms**
-Git & GitHub · VS Code · Virtual environments · Excel (dashboards & automation)
+I'm building a career in networking and Linux infrastructure from the ground up.
+Right now I focus on getting the fundamentals right, not just theory, but actual
+hands-on problem solving.
 
 ---
 
-## What you'll find here
+## Education
 
-Projects and studies I'm actively building as I grow toward professional
-infrastructure work, network labs, automation scripts, security writeups,
-and IT management tools. Everything is documented in English so it's useful
-beyond my local context.
+**Technology Degree in Computer Networks** *(in progress)*
+Studying networking fundamentals, Python programming, and practical
+problem-solving applied to real infrastructure scenarios.
+
+Day by day I'm connecting theory to practice, protocols, network design,
+and scripting that actually makes systems work better.
 
 ---
 
-## Currently learning
+## What I can do today
 
-- Virtualization with Proxmox (home lab in progress)
-- Network automation with Python/Bash
-- Deepening Linux server administration skills
+- Diagnose and fix connectivity issues (wired & wireless)
+- Printer setup, network sharing, and hardware troubleshooting
+- Windows support (7, 10, 11) installation, configuration, common issues
+- Linux basics, file system, permissions, services, terminal troubleshooting
+- Read and understand network traffic (OSI model, TCP/IP, DNS, DHCP, ARP)
+
+---
+
+## What I'm actively building
+
+- Networking fundamentals, routing, switching, VLANs (studying toward CCNA level)
+- Linux server administration (CLI-first, no GUI shortcuts)
+- Virtualization with Proxmox, home lab in progress
+- Scripting and automation basics
+
+---
+
+## What this GitHub is for
+
+I use this space to document my learning in public, labs, notes, scripts,
+and small tools as I build toward professional infrastructure work.
+Everything here reflects where I actually am, not where I want to appear to be.
 
 ---
 
@@ -50,4 +52,4 @@ beyond my local context.
 
 ---
 
-*Updated regularly as I build and learn.*
+*Updated as I learn and build.*
