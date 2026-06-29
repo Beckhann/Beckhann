@@ -29,7 +29,7 @@ Git & GitHub · VS Code · Virtual environments · Excel (dashboards & automatio
 ## What you'll find here
 
 Projects and studies I'm actively building as I grow toward professional
-infrastructure work — network labs, automation scripts, security writeups,
+infrastructure work, network labs, automation scripts, security writeups,
 and IT management tools. Everything is documented in English so it's useful
 beyond my local context.
 
